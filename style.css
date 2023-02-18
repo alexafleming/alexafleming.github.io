@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://images.unsplash.com/photo-1547623641-d2c56c03e2a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV1dHJhbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80)
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm283-nunny-246-f.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=f173d25b87c57ca67c2ae5634836a98d)
     
 }
 
@@ -8,7 +8,7 @@ h1{
   color: white;
   font-size: 30px;
   font-family: arial, sans-serif;
-  text-align: center;
+margin:10 20;
 
 }
   img{
@@ -16,4 +16,12 @@ h1{
   float: right;
    
   }
+.exp-header {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  border-top:1px solid #ffff;
+  border-bottom:1px solid #ffff;
+  background-color: rgba(0,0,0, 0.3)
+}
     
